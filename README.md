@@ -25,3 +25,7 @@ I play a lot a PS4, mobile, and Computer games. I find solving difficult tasks c
 ### Links to my Profile:
 - [LinkedIn](https://www.linkedin.com/in/gd-prasad/) 
 - [GitHub](https://github.com/GD-Prasad)
+
+<br>
+
+![GD](https://raw.githubusercontent.com/GD-Prasad/big-data-developer/main/IMG_3194%20(1).jpg)
