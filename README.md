@@ -19,3 +19,9 @@ Once I finish my Master's in Applied Computer Science, I want to get into the ma
 
 ### Aside: 
 I play a lot a PS4, mobile, and Computer games. I find solving difficult tasks challenging in the course work and outside too.
+
+<br>
+
+### Links to my Profile:
+- [LinkedIn](https://www.linkedin.com/in/gd-prasad/) 
+- [GitHub](https://github.com/GD-Prasad)
